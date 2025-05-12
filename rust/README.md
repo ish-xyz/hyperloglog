@@ -1,7 +1,7 @@
-This is an idea that I had working for a previous company.
+The same algo implemented in Rust.
 
-More and more people are doing batch computing on Kubernetes.
+run with 
 
-Container images are not really batch-friendly.
-
-This cache has been built to improve pull time and reliability.
+```
+cargo run src/main.rs
+```
